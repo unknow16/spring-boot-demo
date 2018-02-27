@@ -46,6 +46,10 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-admin-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-mybatis/pom.xml" />
       </list>
     </option>
   </component>

@@ -16,6 +16,12 @@
 
 	<modules>
         <module>spring-boot-admin-server</module>
+		<module>spring-boot-admin-client</module>
+
+		<module>spring-boot-dubbo-provider</module>
+		<module>spring-boot-dubbo-consumer</module>
+
+		<module>spring-boot-jpa</module>
     </modules>
 
 </project>

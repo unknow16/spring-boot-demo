@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Spring" name="Spring">
+      <configuration>
+        <fileset id="fileset" name="Spring Application Context" removed="false">
+          <file>file://$MODULE_DIR$/src/main/java/com/fuyi/demo/BootstrapApplication.java</file>
+          <file>jar://$MAVEN_REPOSITORY$/de/codecentric/spring-boot-admin-server/1.5.6/spring-boot-admin-server-1.5.6.jar!/de/codecentric/boot/admin/config/AdminServerCoreConfiguration.class</file>
+          <file>jar://$MAVEN_REPOSITORY$/de/codecentric/spring-boot-admin-server/1.5.6/spring-boot-admin-server-1.5.6.jar!/de/codecentric/boot/admin/config/AdminServerWebConfiguration.class</file>
+          <file>jar://$MAVEN_REPOSITORY$/de/codecentric/spring-boot-admin-server/1.5.6/spring-boot-admin-server-1.5.6.jar!/de/codecentric/boot/admin/config/DiscoveryClientConfiguration.class</file>
+          <file>jar://$MAVEN_REPOSITORY$/de/codecentric/spring-boot-admin-server/1.5.6/spring-boot-admin-server-1.5.6.jar!/de/codecentric/boot/admin/config/HazelcastStoreConfiguration.class</file>
+          <file>jar://$MAVEN_REPOSITORY$/de/codecentric/spring-boot-admin-server/1.5.6/spring-boot-admin-server-1.5.6.jar!/de/codecentric/boot/admin/config/NotifierConfiguration.class</file>
+          <file>jar://$MAVEN_REPOSITORY$/de/codecentric/spring-boot-admin-server/1.5.6/spring-boot-admin-server-1.5.6.jar!/de/codecentric/boot/admin/config/RevereseZuulProxyConfiguration.class</file>
+          <file>file://$MAVEN_REPOSITORY$/de/codecentric/spring-boot-admin-server/1.5.6/spring-boot-admin-server-1.5.6.jar</file>
+        </fileset>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_6" inherit-compiler-output="false">
     <output url="file://$MODULE_DIR$/target/classes" />
     <output-test url="file://$MODULE_DIR$/target/test-classes" />
